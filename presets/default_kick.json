@@ -1,0 +1,9 @@
+{
+  "name": "Default Kick",
+  "engine": "kick",
+  "params": {
+    "frequency": 60.0,
+    "duration": 0.5,
+    "amplitude": 0.2
+  }
+}
